@@ -1,0 +1,2 @@
+# fofoca
+Propósito de fofoca
